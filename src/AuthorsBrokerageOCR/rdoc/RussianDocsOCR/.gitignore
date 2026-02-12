@@ -1,0 +1,8 @@
+/venv/
+/russian_docs_ocr/document_processing/.idea/
+.idea/
+/.idea/
+**/__pycache__/
+**/.idea/
+dist/*
+.DS_Store
